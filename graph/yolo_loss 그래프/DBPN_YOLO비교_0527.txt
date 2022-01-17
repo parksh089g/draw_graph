@@ -1,0 +1,5 @@
+1 Avg yolo torch loss is tensor([0.04379, 0.01017, 0.02182, 0.15954], device='cuda:0')
+1 Avg yolo torch loss is tensor([0.04412, 0.01036, 0.02199, 0.15954], device='cuda:0')
+1 Avg yolo torch loss is tensor([0.04379, 0.01026, 0.02107, 0.15954], device='cuda:0')
+1 Avg yolo torch loss is tensor([0.04399, 0.01025, 0.02135, 0.15954], device='cuda:0')
+1 Avg yolo torch loss is tensor([0.04559, 0.01057, 0.02333, 0.15954], device='cuda:0')
